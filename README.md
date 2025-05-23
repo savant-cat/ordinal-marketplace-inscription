@@ -14,4 +14,4 @@ npm run dev(or yarn dev)
 ```
 
 
-### This involves some codebase for full project, feel free to reach out of me if you want to see whole codebase.(https://t.me/CatLoverDev)
+### This involves some codebase for full project, feel free to reach out of me if you want to see whole codebase.(https://t.me/SavantCat)
